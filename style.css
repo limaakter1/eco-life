@@ -28,6 +28,8 @@ body {
 .email-icon {
   padding-left: 40px;
   padding-right: 150px;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 .social-icon {
   color: green;
@@ -45,4 +47,41 @@ body {
 }
 .icon {
   border-bottom: 1px solid black;
+  margin-bottom: 50px;
+}
+.nav li {
+  list-style: none;
+  padding-left: 30px;
+  font-weight: 700;
+  font-size: 17px;
+}
+.nav li:hover{
+    background-color: green;
+    color: white;
+    padding: 10px 10px;
+}
+.nav ul {
+  display: flex;
+}
+.nav img {
+  width: 80%;
+  padding-left: 30px;
+  ma
+}
+.navigation {
+  display: flex;
+}
+.fa-search {
+  background-color: green;
+  color: white;
+  padding: 10px 10px;
+  margin-left: 200px;
+}
+.nav {
+  padding-bottom: 20px;
+}
+.li-1{
+    color: white;
+    background-color: green;
+    padding: 10px 10px;
 }
