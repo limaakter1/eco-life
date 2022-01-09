@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+.fa-phone-alt,
+.fa-envelope {
+  color: green;
+}
+.phone-icon > span {
+  font-weight: 700;
+  font-size: 18px;
+  margin-left: 3px;
+}
+.phone-icon {
+  padding-bottom: 7px;
+  padding-top: 15px;
+  border-right: 1px solid black;
+  padding-left: 40px;
+  padding-right: 10px;
+}
+.green {
+  color: green;
+}
+.email-icon > span {
+  font-weight: 700;
+  font-size: 18px;
+  margin-left: 3px;
+}
+.email-icon {
+  padding-left: 40px;
+  padding-right: 150px;
+}
+.social-icon {
+  color: green;
+  font-size: 40px;
+  padding-left: 350px;
+  margin-bottom: 0;
+}
+.fa-cart-plus {
+  color: black;
+  border: 1px solid black;
+  font-size: 20px;
+  padding-left: 4px;
+  padding-right: 7px;
+  padding-top: 14px;
+}
+.icon {
+  border-bottom: 1px solid black;
+}
