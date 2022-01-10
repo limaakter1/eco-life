@@ -90,3 +90,48 @@ body {
   background-color: green;
   color: white;
 }
+.save {
+  font-size: 70px;
+  font-weight: 800;
+}
+.day {
+  font-size: 45px;
+  font-weight: 500;
+}
+.first-part {
+  display: flex;
+}
+.environment-day {
+  width: 50%;
+  background-color: rgb(250, 249, 243);
+  padding-left: 40px;
+}
+.environment-day img {
+  width: 100%;
+}
+.environment-day > p {
+  font-size: 23px;
+  font-weight: 500;
+}
+.link-button {
+  text-decoration: none;
+  font-size: 19px;
+  color: white;
+  background-image: linear-gradient(green, rgb(79, 192, 14));
+  padding: 8px 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.second-part > h1 {
+  font-size: 35px;
+  font-weight: 600;
+}
+.second-part > p {
+  font-size: 23px;
+  font-weight: 500;
+}
+.second-part {
+  padding-left: 42px;
+  padding-right: 42px;
+  margin-top: 80px;
+}
