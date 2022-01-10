@@ -141,6 +141,9 @@ body {
   border: 1px solid black;
   margin: 30px 20px;
 }
+.first-img img {
+  height: 275px;
+}
 .green-planet img {
   width: 100%;
 }
